@@ -19,8 +19,11 @@ Controls
 How to play
 --------
 - Download the game's zip file  on this repo
-- Launch "Slender.exe"
+- Launch "Slender.exe" (yes it's called "Slender" and not "IWillNeverDA" because of my project name on Unity)
 - Enjoy !
 
 Screenshots
 --------
+<p align="center"><img src="cp1.png"></p>
+<p align="center"><img src="cp2.png"></p>
+<p align="center"><img src="cp3.png"></p>
