@@ -18,10 +18,9 @@ Controls
 
 How to play
 --------
-- Download the game's zip file  on this repo
-- Launch "Slender.exe" (yes it's called "Slender" and not "IWillNeverDA" because of my project name on Unity)
+- Go on the game's webpage on itch.io here : [IWillNeverDA](https://hugosh.itch.io/i-will-never-drink-again)
+- Download the .zip , Then extract the files and Launch Slender.exe
 - Enjoy !
-
 Screenshots
 --------
 <p align="center"><img src="cp1.png"></p>
