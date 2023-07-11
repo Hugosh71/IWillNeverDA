@@ -18,7 +18,7 @@ Controls
 
 How to play
 --------
-- Go on the game's webpage on itch.io here : [IWillNeverDA](https://hugosh.itch.io/i-will-never-drink-again)
+- Go on the game's webpage on itch.io here (accessible only with this special download key): [IWillNeverDA](https://hugosh.itch.io/i-will-never-drink-again/download/t6UyVtmr2goe3DqXKNZ_JIJP4gL0hoeYJyF25GpL)
 - Download the .zip , Then extract the files and Launch Slender.exe
 - Enjoy !
 Screenshots
